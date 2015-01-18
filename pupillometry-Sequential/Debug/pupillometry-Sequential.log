@@ -1,0 +1,8 @@
+﻿Build started 1/18/2015 2:03:48 PM.
+     1>Project "C:\Users\ootaijp\Desktop\Pupilab\pupillometry-Camera-Sequential\pupillometry-Sequential\pupillometry-Sequential.vcxproj" on node 2 (Clean target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : Access to the path 'C:\Users\ootaijp\Desktop\Pupilab\pupillometry-Camera-Sequential\Debug\pupillometry-Sequential.exe' is denied.
+     1>Done Building Project "C:\Users\ootaijp\Desktop\Pupilab\pupillometry-Camera-Sequential\pupillometry-Sequential\pupillometry-Sequential.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65
